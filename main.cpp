@@ -19,7 +19,7 @@ int main()
                     cout << "The bot picked paper, its a tie";
                 }
                 if (Player == "Scissors") {
-                    cout << "The bot picked paper, you lost";
+                    cout << "The bot picked paper, you won";
                 }
             }
             if (Random == 1) {
